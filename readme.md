@@ -10,4 +10,8 @@ A Python implementation of a hybrid optimization approach for imputing missing v
 ## Usage  
 check ```sca.py``` and you can start to work on it. you can also find the dataset ```water_potability.csv```.   
 
+## Madjour amir
+
+- My code is prepared for direct integration with code, you only call the function with data from ```water_potability.csv```
+
 ## Good Luck habayebna !
