@@ -13,7 +13,7 @@ from sklearn.svm import SVC
 from sklearn.preprocessing import RobustScaler
 import time
 import warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings('ignore') 
 
 
 def load_and_prepare_data(path):
